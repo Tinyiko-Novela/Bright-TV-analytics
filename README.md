@@ -22,8 +22,8 @@ Age, gender and race were found to be influencers viewership.
 From the visualization it was deduced that males, adults(29-64) and black people have high viewership counts.
    
 2. Content recommendations for low consumption days
-Males contribute to 82% of the viewers by gender. According to the data, they prefer sports and music. Curate the content to include interesting games and music on low consumption days
-Ages 18 and 64 have high counts of viewership, shows that are preferred by adults should be played on low viewership days.
+Males contribute to 87% of the viewers by gender. According to the data, they prefer sports and music. Curate the content to include interesting games and music on low consumption days
+Ages 30 and 64 have high counts of viewership, shows that are preferred by adults should be played on low viewership days.
 The afternoon time slot( 12pm-6pm) has a high count of viewers, schedule TV shows and hit movies, advertise them prior to get viewership on low consumption days.
 
 3. Initiatives to increase subscription base
